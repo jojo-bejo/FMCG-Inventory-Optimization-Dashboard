@@ -4,6 +4,8 @@
 
 Supply Chain Analytics | Inventory Optimization | FMCG Distribution
 
+---
+
 ## Overview
 
 This Power BI solution provides end-to-end visibility into inventory health, stockout risk, excess inventory, and supplier performance across multiple warehouses and product categories in an FMCG distribution environment.
@@ -22,6 +24,9 @@ The dashboard helps supply chain teams reduce stockouts, optimize inventory inve
 - Excess Inventory Value
 - Supplier OTIF
 - Average Lead Time
+
+---
+
 ## Dashboard Preview
 
 ### Executive Inventory Health
@@ -102,6 +107,19 @@ This dashboard enables proactive inventory management through inventory risk mon
 * Power Query
 * Data Modeling
 * Data Visualization
+
+---
+
+## Skills Demonstrated
+
+- Data Modeling
+- DAX Calculations
+- Inventory Analytics
+- Supply Chain KPI Design
+- Dashboard Development
+- Data Visualization
+- Business Intelligence
+- Inventory Optimization
 
 ---
 
