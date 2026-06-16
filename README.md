@@ -14,7 +14,7 @@ The dashboard helps supply chain teams reduce stockouts, optimize inventory inve
 )
 
 ### Stockout & Service Risk
-![Stockout & Service Risk]([Screenshots/Stockout_Service_Risk.png](https://github.com/jojo-bejo/FMCG-Inventory-Optimization-Dashboard/blob/main/2.%20Sockouts%20and%20Service%20Risk.png))
+![Stockout & Service Risk]([Screenshots/Stockout_Service_Risk.png](https://github.com/jojo-bejo/FMCG-Inventory-Optimization-Dashboard/blob/main/2.%20Sockouts%20and%20Service%20Risk.png)
 
 ### Excess Inventory & Working Capital
 ![Excess Inventory](2. Sockouts and Service Risk.png)
