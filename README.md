@@ -10,7 +10,7 @@ The dashboard helps supply chain teams reduce stockouts, optimize inventory inve
 ## Dashboard Preview
 
 ### Executive Inventory Health
-![Executive Inventory Health]([<img width="856" height="480" alt="image" src="https://github.com/user-attachments/assets/37c84127-d769-4683-91d2-edd3dc61fbfa" /](https://github.com/jojo-bejo/FMCG-Inventory-Optimization-Dashboard/blob/main/1.%20Executive%20Inventory%20Health.png)
+![Executive Inventory Health](https://github.com/jojo-bejo/FMCG-Inventory-Optimization-Dashboard/blob/main/1.%20Executive%20Inventory%20Health.png)
 )
 
 ### Stockout & Service Risk
