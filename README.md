@@ -20,7 +20,7 @@ The dashboard helps supply chain teams reduce stockouts, optimize inventory inve
 ![Excess Inventory]([3. Excess and Working Capital.png](https://github.com/jojo-bejo/FMCG-Inventory-Optimization-Dashboard/blob/main/3.%20Excess%20and%20Working%20Capital.png))
 
 ### Supplier & Warehouse Performance
-![Supplier Performance](Screenshots/Supplier_Warehouse_Performance.png)
+![Supplier Performance]([Screenshots/Supplier_Warehouse_Performance.png](https://github.com/jojo-bejo/FMCG-Inventory-Optimization-Dashboard/blob/main/4.%20Supplier%20and%20Warehouse%20Performance.png)
 ## Business Problem
 
 FMCG companies often face two costly inventory challenges:
