@@ -1,5 +1,9 @@
 # FMCG Inventory Optimization Dashboard
 
+## Featured Power BI Portfolio Project
+
+Supply Chain Analytics | Inventory Optimization | FMCG Distribution
+
 ## Overview
 
 This Power BI solution provides end-to-end visibility into inventory health, stockout risk, excess inventory, and supplier performance across multiple warehouses and product categories in an FMCG distribution environment.
@@ -7,6 +11,17 @@ This Power BI solution provides end-to-end visibility into inventory health, sto
 The dashboard helps supply chain teams reduce stockouts, optimize inventory investment, improve service levels, and identify working capital improvement opportunities.
 
 ---
+
+## Key KPIs
+
+- Inventory Value
+- Service Level
+- Stockout Risk
+- Days On Hand
+- Lost Sales
+- Excess Inventory Value
+- Supplier OTIF
+- Average Lead Time
 ## Dashboard Preview
 
 ### Executive Inventory Health
